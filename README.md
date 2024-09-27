@@ -69,7 +69,7 @@ Any contribution is welcome!
 
 ## PainMonit Database
 *2024*
-- [Website](https://figshare.com/articles/dataset/The_PainMonit_Database_An_Experimental_and_Clinical_Physiological_Signal_Dataset_for_Automated_Pain_Recognition/26965159), [Paper](https://ieeexplore.ieee.org/document/8758989)
+- [Website](https://figshare.com/articles/dataset/The_PainMonit_Database_An_Experimental_and_Clinical_Physiological_Signal_Dataset_for_Automated_Pain_Recognition/26965159), [Paper](https://rdcu.be/dViHC)
 - Database consists of two parts:
 
 #### PMED
