@@ -61,8 +61,27 @@ Any contribution is welcome!
 - annotation: category annotated by doctors and parents (pain, discomfort, hunger/thirst, and three others)
 
 ## Neonatal Pain Assessment Database 1 (NPAD-1)
-- [Website](http://rpal.cse.usf.edu/project_neonatal_pain/dataset.html), [Paper](https://ieeexplore.ieee.org/document/8758989)
+- [Website](http://rpal.cse.usf.edu/project_neonatal_pain/dataset.html), [Paper](https://rdcu.be/dViHC)
 - subjects: 6 newborns and premature neonates
 - stimuli: painful procedures (e.g., heel lancing and immunization)
 - data modalities: videos with audio, vital signs
 - annotation: pain assessment by two trained nurses with Neonatal Infant Pain Scale (NIPS); Gestational Age (GA), clinical data (e.g., the medication type/dose), birth-weight, race/ethnicity, gender, and non-pharmacological interventions (e.g., oral sucrose and the pacifier use)
+
+## PainMonit Database
+*2024*
+- [Website](https://figshare.com/articles/dataset/The_PainMonit_Database_An_Experimental_and_Clinical_Physiological_Signal_Dataset_for_Automated_Pain_Recognition/26965159), [Paper](https://ieeexplore.ieee.org/document/8758989)
+- Database consists of two parts:
+
+#### PMED
+**PainMonit Experimental Dataset**
+- subjects: 55 healthy subjects 
+- stimuli: heat pain
+- data modalities: BVP, 2×EDA, skin temperature, ECG, EMG, IBI, HR, respiration
+- annotation: stimulus (calibrated per person) + subjective felt pain (CoVAS)
+
+#### PMCD
+**PainMonit Clinical Dataset**
+- subjects: 49 healthy subjects 
+- stimuli: physiotherapy session
+- data modalities: 2×BVP, 2×EDA, EMG, skin temperature, respiration, grip
+- annotation: subjective felt pain
